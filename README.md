@@ -22,7 +22,7 @@ git clone https://github.com/Ludotes/docker-elk.git
 
 #### Run docker-compose
 ```sh
-sudo docker-compose run
+sudo docker-compose up
 ```
 
 # Configuration
